@@ -1,2 +1,2 @@
-# OIB-SIP-main
-Oasis Infobyte Online Internship Basic Tasks
+# OIB-SIP
+Oasis Infobyte Web Designing Internship Tasks 
